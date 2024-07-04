@@ -1,0 +1,70 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# IntelliJ related
+.idea/
+.idea_modules/
+.idea_module.xml
+.idea_codeStyles/
+.idea/workspace.xml
+.idea/libraries
+.idea/shelf/
+.idea/shelf_iec/
+
+# VS Code related
+.vscode/
+
+# Android related
+android/.gradle/
+android/captures/
+android/.idea/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS related
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.generated/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcworkspace/
+
+# Web related
+web/.dart_tool/
+
+# Miscellaneous
+*.iml
+*.log
+*.lock
+*.DS_Store
+*.swp
+*.swo
+*.swn
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Coverage related
+coverage/
+
+# Linux related
+linux/Flutter/ephemeral/
+
+# macOS related
+macos/Flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
