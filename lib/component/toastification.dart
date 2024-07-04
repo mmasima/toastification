@@ -38,6 +38,8 @@ class ToastNotification {
     }
 
     toastification.show(
+      style: ToastificationStyle.fillColored,
+      alignment: Alignment.bottomRight,
       context: context,
       type: _mapToastTypeToToastificationType(type),
       autoCloseDuration: const Duration(seconds: 5),
